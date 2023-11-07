@@ -16,12 +16,12 @@ body{
     background: white;
     border-radius: 10px;
     
+    
 }
 
 .form-container input {
     display: block;
-    justify-content: center;
-    align-items: center;
+  
 
     
 }
@@ -45,5 +45,12 @@ body{
     font-size: 20px;
     color: #fff;
     margin: 10px 5px;
+}
+
+.form_btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
